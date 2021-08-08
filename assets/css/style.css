@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/**Header Styling Start**/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,10 @@ a {
 p {
     font-size: 16px;
 }
+/**Header Styling Ends**/
 
+
+/**Hero Styling Starts**/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +61,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/**Hero Styling Ends**/
+
 
 .float-left {
     float: left;
@@ -75,6 +80,9 @@ p {
     margin-left: 20px;
 }
 
+
+
+/**Benefit content, i.e. "Lead Generation", "Brand Awareness", "Cost Management", Styling Starts**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/**Footer Start**/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/**Footer End**/
